@@ -1,1 +1,1 @@
-export default BASE_URL = "some";
+export default BASE_URL = "social-media-mern-production.up.railway.app";
